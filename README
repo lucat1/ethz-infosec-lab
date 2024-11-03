@@ -1,0 +1,15 @@
+CONTENTS
+
+Contains solutions to the binary exploitation, side channel attack and
+cryptography modules of the ISL course at ETH.
+
+NOTICE
+
+I have purged all files of any templating by ETH. All the solutions found here
+are entirely my own.
+
+WHY
+
+This is mainly here to annoy people at ETH who are in charge of designing this
+course, hopefully in the hope that they (are forced to) put more effort into
+the teaching.
